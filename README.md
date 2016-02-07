@@ -5,22 +5,22 @@ High-energy, high-enthusiasm iOS developer with great communication skills and a
 
 TECHNICAL SKILLS
 ----------------
-**Development Environments**  
-Xcode (2); IntelliJ IDEA (2); Eclipse IDE (3)  
-**Languages**  
-Swift (1); Objective C (1); C (3); Java (3); JavaScript (3)  
-**Platforms**  
-Mac OSX (5); Linux (5); Amazon AWS (7); VMware (5)
-**Libraries & Dependency Managers**  
-Cocoapods (1); SwiftyJSON (1); Bootstrap (2); Jetty (2); Log4J (2); MPICH (1); Pthreads (1)  
-**Utilities**  
-Fastlane Snapshot (1); Jazzy (1)
-**Database Management Systems**  
-PostgreSQL (1); SQLite (3); MYSQL (3); Microsoft SQL (5)  
-**Graphics tools**  
-Adobe Photoshop (3); Gimp (3); OmniGraffle (2); Visio (5)  
-**Source code management**  
-Git (2); Github (2); SVN (3)  
+- **Development Environments**
+  - Xcode (1 year); IntelliJ IDEA (2); Eclipse IDE (3)
+- **Languages**
+  - Swift (1); Objective C (1); C (3); Java (3); JavaScript (3)
+- **Platforms**
+  - Mac OSX (5); Linux (5); Amazon AWS (7); VMware (5)
+- **Libraries & Dependency Managers**
+  - Cocoapods (1); SwiftyJSON (1); Bootstrap (2); Jetty (2); Log4J (2); MPICH (1); Pthreads (1)
+- **Utilities**
+  - Fastlane Snapshot (1); Jazzy (1)
+- **Database Management Systems**
+  - PostgreSQL (1); SQLite (3); MYSQL (3); Microsoft SQL (5)
+- **Graphics tools**
+  - Adobe Photoshop (3); Gimp (3); OmniGraffle (2); Visio (5)
+- **Source code management**  
+  - Git (2); Github (2); SVN (3)
 
 
 EXPERIENCE
