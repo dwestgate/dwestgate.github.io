@@ -1,6 +1,6 @@
 SUMMARY
 -------
-High-energy, high-enthusiasm iOS developer with great communication skills and a drive to be making things with software.
+High-energy, high-enthusiasm iOS developer with great communication skills and a drive to be always learning and creating new things. Especially adept at managing risk by setting clear expectations and by eliminating the uncertainty that accompanies poorly-defined requirements.
 
 
 TECHNICAL SKILLS
