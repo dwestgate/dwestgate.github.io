@@ -1,11 +1,12 @@
 <div id="title">
   <h1>David Westgate</h1>
-  <p>C 415-480-0777</p>
+  <p>584 Castro Street #305 - San Francisco, CA 94114</p>
   <hr>
-  <span class="credits left"><a href="mailto:david.westgate@me.com">david.westgate@me.com</a></span>
-  <span class="credits left">584 Castro Street #305 - San Francisco, CA 94114</span>
+  <span class="credits left">Cell: 415-480-0777</span>
+  <span class="credits right"><a href="mailto:david.westgate@me.com">david.westgate@me.com</a></span>
 </div>
 
 <div id="title">
+  <br>
   <span class="credits left">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
 </div>
