@@ -1,17 +1,15 @@
 ### SUMMARY
-High-energy, high-enthusiasm iOS developer with great communication skills and a passion for building new things. Especially adept at managing risk by setting clear expectations and by eliminating the uncertainty that accompanies poorly-articulated requirements.
+High-energy, high-enthusiasm iOS developer with great communication skills, a tremendous appetite for learning new things, and a proven taste for adventure. Especially adept at managing risk by setting clear expectations and by discerning and articulating requirements.
 
 ### TECHNICAL SKILLS
-| Languages/IDEs    | Platforms/DBMS    | Tools           | Other Stuff   |
-|:-----------------:|:-----------------:|:---------------:|:-------------:|
-| Swift (1 year)    | Mac OSX (5)       | Git (2)         | Cocoapods (1) |
-| Objective C (1)   | Linux (5)         | Github (2)      | Jazzy (1)     |
-| C (3)             | Amazon AWS (7)    | SVN (3)         | Bootstrap (2) |
-| Java (3)          | VMware (5)        | Visio (5)       | Jetty (2)     |
-| JavaScript (3)    | PostgreSQL (1)    | Photoshop (3)   |  Log4J (2)    |
-| Xcode (1)         | SQLite (3)        | Gimp (3)        | MPICH (1)     |
-| IntelliJ IDEA (2) | MYSQL (3)         | OmniGraffle (2) | Pthreads (1)  |
-| Eclipse IDE (3)   | Microsoft SQL (5) |                 | Fastlane (1)  |
+| Languages         | Development Tools | DBMS              | Other Stuff   |
+|:-----------------:|:-----------------:|:-----------------:|:-------------:|
+| Swift (1 year)    | Xcode (1)         | PostgreSQL (1)    | Cocoapods (1) |
+| Objective C (1)   | IntelliJ IDEA (2) | SQLite (3)        | Bootstrap (2) |
+| C (3)             | Eclipse IDE (3)   | MYSQL (3)         | Jetty (2)     |
+| Java (3)          | Photoshop (3)     | MS SQL Server (5) | Log4J (2)     |
+| JavaScript (3)    | Visio (5)         |                   | MPICH (1)     |
+| Python (1)        | OmniGraffle (2)   |                   | Pthreads (1)  |
 
 ### EXPERIENCE
 #### Independent Development
