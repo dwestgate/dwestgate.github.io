@@ -42,7 +42,7 @@ EXPERIENCE
   - Github: http://dwestgate.github.io/Meniscus
 
 #### University of San Francisco Computer Science Department
-###### Student – May 2010 to June 2015
+###### Student – May 2012 to June 2015
 - **San Fransisco Startup Atlas**
   - Database-backed website that displays a map of San Francisco and plots the physical addresses of startup companies
   - Test data was created by combining CrunchBase startup information with San Francisco city records in a PostreSQL database
