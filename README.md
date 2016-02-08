@@ -1,30 +1,19 @@
-SUMMARY
--------
-High-energy, high-enthusiasm iOS developer with great communication skills and a drive to be always learning and creating new things. Especially adept at managing risk by setting clear expectations and by eliminating the uncertainty that accompanies poorly-defined requirements.
+### SUMMARY
+High-energy, high-enthusiasm iOS developer with great communication skills and a passion for building new things. Especially adept at managing risk by setting clear expectations and by eliminating the uncertainty that accompanies poorly-articulated requirements.
 
+### TECHNICAL SKILLS
+| Languages/IDEs    | Platforms/DBMS    | Tools           | Other Stuff   |
+|:-----------------:|:-----------------:|:---------------:|:-------------:|
+| Swift (1 year)    | Mac OSX (5)       | Git (2)         | Cocoapods (1) |
+| Objective C (1)   | Linux (5)         | Github (2)      | Jazzy (1)     |
+| C (3)             | Amazon AWS (7)    | SVN (3)         | Bootstrap (2) |
+| Java (3)          | VMware (5)        | Visio (5)       | Jetty (2)     |
+| JavaScript (3)    | PostgreSQL (1)    | Photoshop (3)   |  Log4J (2)    |
+| Xcode (1)         | SQLite (3)        | Gimp (3)        | MPICH (1)     |
+| IntelliJ IDEA (2) | MYSQL (3)         | OmniGraffle (2) | Pthreads (1)  |
+| Eclipse IDE (3)   | Microsoft SQL (5) |                 | Fastlane (1)  |
 
-TECHNICAL SKILLS
-----------------
-- **Development Environments**
-  - Xcode (1 year); IntelliJ IDEA (2); Eclipse IDE (3)
-- **Languages**
-  - Swift (1); Objective C (1); C (3); Java (3); JavaScript (3)
-- **Platforms**
-  - Mac OSX (5); Linux (5); Amazon AWS (7); VMware (5)
-- **Libraries & Dependency Managers**
-  - Cocoapods (1); SwiftyJSON (1); Bootstrap (2); Jetty (2); Log4J (2); MPICH (1); Pthreads (1)
-- **Utilities**
-  - Fastlane Snapshot (1); Jazzy (1)
-- **Database Management Systems**
-  - PostgreSQL (1); SQLite (3); MYSQL (3); Microsoft SQL (5)
-- **Graphics tools**
-  - Adobe Photoshop (3); Gimp (3); OmniGraffle (2); Visio (5)
-- **Source code management**  
-  - Git (2); Github (2); SVN (3)
-
-
-EXPERIENCE
-----------
+### EXPERIENCE
 #### Independent Development
 ###### Independent iOS Developer - July 2015 to Present  
 - **Ad Scrubber** - *https://itunes.apple.com/us/app/ad-scrubber/id1073585204?mt=8*
@@ -42,7 +31,7 @@ EXPERIENCE
   - Github: http://dwestgate.github.io/Meniscus
 
 #### University of San Francisco Computer Science Department
-###### Student – May 2012 to June 2015
+###### Student – September 2012 to June 2015
 - **San Fransisco Startup Atlas**
   - Database-backed website that displays a map of San Francisco and plots the physical addresses of startup companies
   - Test data was created by combining CrunchBase startup information with San Francisco city records in a PostreSQL database
@@ -71,16 +60,11 @@ All projects written with Eclipse in C (C99)
   - **Bitonic Mergesort:** Pthreads application that, given a list of numbers to sort and a thread count, sorts the numbers using a bitonic mergesort algorithm
 
 
-CERTIFICATIONS
---------------
-**Cisco Certified Internetwork Expert**  
-*CCIE #28803 (Routing & Switching)*  
-**Wine & Spirit Education Trust**  
-*WSET Level 3 Award in Wines and Spirits*
+### CERTIFICATIONS
+**Cisco Certified Internetwork Expert** - *CCIE #28803 (Routing & Switching)*  
+**Wine & Spirit Education Trust** - *WSET Level 3 Award in Wines and Spirits*
 
 
-EDUCATION
----------
-**University of San Francisco (2012-2015)**   
-*Department of Computer Science*  
-GPA 3.75/4.0
+### EDUCATION
+**University of San Francisco (2012-2015)** - *Department of Computer Science*  
+GPA 3.75 of 4.0
