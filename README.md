@@ -5,7 +5,7 @@ High-energy, high-enthusiasm iOS developer with great communication skills, a tr
 | Languages         | Development Tools | DBMS              | Other Stuff   |
 |:-----------------:|:-----------------:|:-----------------:|:-------------:|
 | Swift (1 year)    | Xcode (1)         | PostgreSQL (1)    | Cocoapods (1) |
-| Objective C (1)   | IntelliJ IDEA (2) | SQLite (3)        | Bootstrap (2) |
+| Objective-C (1)   | IntelliJ IDEA (2) | SQLite (3)        | Bootstrap (2) |
 | C (3)             | Eclipse IDE (3)   | MYSQL (3)         | Jetty (2)     |
 | Java (3)          | Photoshop (3)     | MS SQL Server (5) | Log4J (2)     |
 | JavaScript (3)    | Visio (5)         |                   | MPICH (1)     |
@@ -24,7 +24,7 @@ High-energy, high-enthusiasm iOS developer with great communication skills, a tr
 - **Meniscus** - *https://itunes.apple.com/us/app/meniscus/id1053316464?mt=8*
   - Open source app for assisting with the compilation of tasting notes in accordance with the WSET systematic approach to wine tasting
   - Automatically translates observations into well-formed English tasting notes
-  - Written with Xcode 7 in Objective C
+  - Written with Xcode 7 in Objective-C
   - Tools Used: Adobe Photoshop; Gimp; Git
   - Github: http://dwestgate.github.io/Meniscus
 
