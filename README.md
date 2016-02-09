@@ -4,12 +4,12 @@ High-energy, high-enthusiasm iOS developer with great communication skills, a tr
 ### TECHNICAL SKILLS
 | Languages         | Development Tools | DBMS              | Other Stuff   |
 |:-----------------:|:-----------------:|:-----------------:|:-------------:|
-| Swift (1 year)    | Xcode (1)         | PostgreSQL (1)    | Cocoapods (1) |
-| Objective-C (1)   | IntelliJ IDEA (2) | SQLite (3)        | Bootstrap (2) |
+| Swift (1 year)    | Xcode (3)         | PostgreSQL (3)    | Cocoapods (1) |
+| Objective-C (3)   | IntelliJ IDEA (3) | SQLite (3)        | Bootstrap (2) |
 | C (3)             | Eclipse IDE (3)   | MYSQL (3)         | Jetty (2)     |
 | Java (3)          | Photoshop (3)     | MS SQL Server (5) | Log4J (2)     |
 | JavaScript (3)    | Visio (5)         |                   | MPICH (1)     |
-| Python (1)        | OmniGraffle (2)   |                   | Pthreads (1)  |
+| Python (3)        | OmniGraffle (2)   |                   | Pthreads (1)  |
 
 ### EXPERIENCE
 #### Independent Development
